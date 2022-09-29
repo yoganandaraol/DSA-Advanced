@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_MaxSumConteguousSubArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_MaximumAbsoluteDifference", "002_MaximumAbsoluteDifference\002_MaximumAbsoluteDifference.csproj", "{94F46968-8E5C-42E7-AF7F-45807D82D214}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_ContinuousSumQuery", "003_ContinuousSumQuery\003_ContinuousSumQuery.csproj", "{811B797F-6095-44D0-A29F-0902C2079036}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{94F46968-8E5C-42E7-AF7F-45807D82D214}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94F46968-8E5C-42E7-AF7F-45807D82D214}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94F46968-8E5C-42E7-AF7F-45807D82D214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811B797F-6095-44D0-A29F-0902C2079036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811B797F-6095-44D0-A29F-0902C2079036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811B797F-6095-44D0-A29F-0902C2079036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811B797F-6095-44D0-A29F-0902C2079036}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
