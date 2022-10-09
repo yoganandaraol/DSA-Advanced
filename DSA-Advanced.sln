@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_NumberOfSetBits", "009_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_SubMatrixSumQueries", "010_SubMatrixSumQueries\010_SubMatrixSumQueries.csproj", "{21E94C80-733E-499F-B669-78F61F1D6B9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_MaxSubMatrixSum", "011_MaxSubMatrixSum\011_MaxSubMatrixSum.csproj", "{72168F5C-504B-49F5-950A-EA25D7EB8619}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011_MaxSubMatrixSum", "011_MaxSubMatrixSum\011_MaxSubMatrixSum.csproj", "{72168F5C-504B-49F5-950A-EA25D7EB8619}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_MergeIntervals", "012_MergeIntervals\012_MergeIntervals.csproj", "{65C5EEE6-1E7D-4297-BE8D-1FABE5209BD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012_MergeIntervals", "012_MergeIntervals\012_MergeIntervals.csproj", "{65C5EEE6-1E7D-4297-BE8D-1FABE5209BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_MergeOverlappingIntervals", "013_MergeOverlappingIntervals\013_MergeOverlappingIntervals.csproj", "{71A94CB4-A5A5-49AB-A29F-5D3B79F5DF0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{65C5EEE6-1E7D-4297-BE8D-1FABE5209BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65C5EEE6-1E7D-4297-BE8D-1FABE5209BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65C5EEE6-1E7D-4297-BE8D-1FABE5209BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A94CB4-A5A5-49AB-A29F-5D3B79F5DF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A94CB4-A5A5-49AB-A29F-5D3B79F5DF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A94CB4-A5A5-49AB-A29F-5D3B79F5DF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A94CB4-A5A5-49AB-A29F-5D3B79F5DF0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
