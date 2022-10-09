@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_SubMatrixSumQueries", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_MaxSubMatrixSum", "011_MaxSubMatrixSum\011_MaxSubMatrixSum.csproj", "{72168F5C-504B-49F5-950A-EA25D7EB8619}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_MergeIntervals", "012_MergeIntervals\012_MergeIntervals.csproj", "{65C5EEE6-1E7D-4297-BE8D-1FABE5209BD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{72168F5C-504B-49F5-950A-EA25D7EB8619}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72168F5C-504B-49F5-950A-EA25D7EB8619}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72168F5C-504B-49F5-950A-EA25D7EB8619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C5EEE6-1E7D-4297-BE8D-1FABE5209BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C5EEE6-1E7D-4297-BE8D-1FABE5209BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C5EEE6-1E7D-4297-BE8D-1FABE5209BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C5EEE6-1E7D-4297-BE8D-1FABE5209BD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
