@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011_MaxSubMatrixSum", "011_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012_MergeIntervals", "012_MergeIntervals\012_MergeIntervals.csproj", "{65C5EEE6-1E7D-4297-BE8D-1FABE5209BD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_MergeOverlappingIntervals", "013_MergeOverlappingIntervals\013_MergeOverlappingIntervals.csproj", "{71A94CB4-A5A5-49AB-A29F-5D3B79F5DF0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013_MergeOverlappingIntervals", "013_MergeOverlappingIntervals\013_MergeOverlappingIntervals.csproj", "{71A94CB4-A5A5-49AB-A29F-5D3B79F5DF0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_FirstMissingInteger", "014_FirstMissingInteger\014_FirstMissingInteger.csproj", "{B5DF49D9-0795-43D4-B1AF-1065419A8E45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "014_FirstMissingInteger", "014_FirstMissingInteger\014_FirstMissingInteger.csproj", "{B5DF49D9-0795-43D4-B1AF-1065419A8E45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015_GreatestPossibleModulo", "015_AmoduloB\015_GreatestPossibleModulo.csproj", "{1621F23D-1190-4A88-9C8F-78945F51AEBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{B5DF49D9-0795-43D4-B1AF-1065419A8E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5DF49D9-0795-43D4-B1AF-1065419A8E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5DF49D9-0795-43D4-B1AF-1065419A8E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1621F23D-1190-4A88-9C8F-78945F51AEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1621F23D-1190-4A88-9C8F-78945F51AEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1621F23D-1190-4A88-9C8F-78945F51AEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1621F23D-1190-4A88-9C8F-78945F51AEBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
