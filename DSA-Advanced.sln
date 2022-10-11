@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "014_FirstMissingInteger", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015_GreatestPossibleModulo", "015_AmoduloB\015_GreatestPossibleModulo.csproj", "{1621F23D-1190-4A88-9C8F-78945F51AEBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016_RainWaterTrapped", "016_RainWaterTrapped\016_RainWaterTrapped.csproj", "{C1A5366F-A94F-487E-839A-AFE089922F0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{1621F23D-1190-4A88-9C8F-78945F51AEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1621F23D-1190-4A88-9C8F-78945F51AEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1621F23D-1190-4A88-9C8F-78945F51AEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A5366F-A94F-487E-839A-AFE089922F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A5366F-A94F-487E-839A-AFE089922F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A5366F-A94F-487E-839A-AFE089922F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A5366F-A94F-487E-839A-AFE089922F0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
