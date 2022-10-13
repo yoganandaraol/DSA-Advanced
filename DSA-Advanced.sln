@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013_MergeOverlappingInterva
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "014_FirstMissingInteger", "014_FirstMissingInteger\014_FirstMissingInteger.csproj", "{B5DF49D9-0795-43D4-B1AF-1065419A8E45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015_GreatestPossibleModulo", "015_AmoduloB\015_GreatestPossibleModulo.csproj", "{1621F23D-1190-4A88-9C8F-78945F51AEBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "015_GreatestPossibleModulo", "015_AmoduloB\015_GreatestPossibleModulo.csproj", "{1621F23D-1190-4A88-9C8F-78945F51AEBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016_RainWaterTrapped", "016_RainWaterTrapped\016_RainWaterTrapped.csproj", "{C1A5366F-A94F-487E-839A-AFE089922F0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "016_RainWaterTrapped", "016_RainWaterTrapped\016_RainWaterTrapped.csproj", "{C1A5366F-A94F-487E-839A-AFE089922F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017_PairSumDevisibleByM", "017_PairSumDevisibleByM\017_PairSumDevisibleByM.csproj", "{83D118A6-6EA2-4E6A-B845-DECB9294F241}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{C1A5366F-A94F-487E-839A-AFE089922F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1A5366F-A94F-487E-839A-AFE089922F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1A5366F-A94F-487E-839A-AFE089922F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D118A6-6EA2-4E6A-B845-DECB9294F241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D118A6-6EA2-4E6A-B845-DECB9294F241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D118A6-6EA2-4E6A-B845-DECB9294F241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D118A6-6EA2-4E6A-B845-DECB9294F241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
