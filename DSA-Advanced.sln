@@ -35,13 +35,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "015_GreatestPossibleModulo"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "016_RainWaterTrapped", "016_RainWaterTrapped\016_RainWaterTrapped.csproj", "{C1A5366F-A94F-487E-839A-AFE089922F0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017_PairSumDevisibleByM", "017_PairSumDevisibleByM\017_PairSumDevisibleByM.csproj", "{83D118A6-6EA2-4E6A-B845-DECB9294F241}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "017_PairSumDevisibleByM", "017_PairSumDevisibleByM\017_PairSumDevisibleByM.csproj", "{83D118A6-6EA2-4E6A-B845-DECB9294F241}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018_SingleNumberInArray", "018_SingleNumberInArray\018_SingleNumberInArray.csproj", "{BC1D158B-9642-4A63-8D55-FB9A675CF42E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "018_SingleNumberInArray", "018_SingleNumberInArray\018_SingleNumberInArray.csproj", "{BC1D158B-9642-4A63-8D55-FB9A675CF42E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019_SingleOccuranceElementInAnArray", "019_SingleOccuranceElementInAnArray\019_SingleOccuranceElementInAnArray.csproj", "{17A6A759-1839-4E42-B103-0D08E530257D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "019_SingleOccuranceElementInAnArray", "019_SingleOccuranceElementInAnArray\019_SingleOccuranceElementInAnArray.csproj", "{17A6A759-1839-4E42-B103-0D08E530257D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020_AddTwoBinaryStrings", "020_AddTwoBinaryStrings\020_AddTwoBinaryStrings.csproj", "{160CD755-A00B-4012-92EB-8F2F4761A367}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "020_AddTwoBinaryStrings", "020_AddTwoBinaryStrings\020_AddTwoBinaryStrings.csproj", "{160CD755-A00B-4012-92EB-8F2F4761A367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021_SingleNumberIII", "021_SingleNumberIII\021_SingleNumberIII.csproj", "{4DFF1DBA-813B-4DCF-A201-5709BD71DDF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{160CD755-A00B-4012-92EB-8F2F4761A367}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{160CD755-A00B-4012-92EB-8F2F4761A367}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{160CD755-A00B-4012-92EB-8F2F4761A367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DFF1DBA-813B-4DCF-A201-5709BD71DDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFF1DBA-813B-4DCF-A201-5709BD71DDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFF1DBA-813B-4DCF-A201-5709BD71DDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFF1DBA-813B-4DCF-A201-5709BD71DDF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
