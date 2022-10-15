@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021_SingleNumberIII", "021_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022_MaxANDPair", "022_MaxANDPair\022_MaxANDPair.csproj", "{DC0A5F5F-7A6F-44E9-9F7E-37DAE4A230BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023_AInverseModB", "023_AInverseModB\023_AInverseModB.csproj", "{46C52CEA-A07F-47AD-9C06-F563C7A8114F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{DC0A5F5F-7A6F-44E9-9F7E-37DAE4A230BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC0A5F5F-7A6F-44E9-9F7E-37DAE4A230BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC0A5F5F-7A6F-44E9-9F7E-37DAE4A230BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C52CEA-A07F-47AD-9C06-F563C7A8114F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C52CEA-A07F-47AD-9C06-F563C7A8114F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C52CEA-A07F-47AD-9C06-F563C7A8114F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C52CEA-A07F-47AD-9C06-F563C7A8114F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
