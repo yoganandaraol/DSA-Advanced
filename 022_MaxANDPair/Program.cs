@@ -51,7 +51,7 @@ namespace _022_MaxANDPair
                     {
                         msbCount++;
                     }
-                    else 
+                    else
                     {
                         msbZeros.Add(j);
                     }
@@ -82,6 +82,5 @@ namespace _022_MaxANDPair
             }
             return v[0] & v[1];
         }
-    }
     }
 }
