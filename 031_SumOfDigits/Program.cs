@@ -50,6 +50,7 @@ namespace _031_SumOfDigits
             Console.WriteLine(SumOfDigits(46) == 10 ? "Passed" : "Failed");
             Console.WriteLine(SumOfDigits(11) == 2 ? "Passed" : "Failed");
             Console.WriteLine(SumOfDigits(100000000) == 1 ? "Passed" : "Failed");
+            Console.WriteLine(SumOfDigits(1291) == 13 ? "Passed" : "Failed");
         }
 
         static int SumOfDigits(int A)

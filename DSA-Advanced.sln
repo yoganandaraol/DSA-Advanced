@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030_SortedPermutationRank",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031_SumOfDigits", "031_SumOfDigits\031_SumOfDigits.csproj", "{46F4B5C4-544D-43AE-8A99-04E3F1E0F3D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "032_IsMagicNumber", "032_IsMagicNumber\032_IsMagicNumber.csproj", "{B183B066-0A85-4C99-98F9-B3E5E87BB4C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{46F4B5C4-544D-43AE-8A99-04E3F1E0F3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46F4B5C4-544D-43AE-8A99-04E3F1E0F3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46F4B5C4-544D-43AE-8A99-04E3F1E0F3D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B183B066-0A85-4C99-98F9-B3E5E87BB4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B183B066-0A85-4C99-98F9-B3E5E87BB4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B183B066-0A85-4C99-98F9-B3E5E87BB4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B183B066-0A85-4C99-98F9-B3E5E87BB4C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
