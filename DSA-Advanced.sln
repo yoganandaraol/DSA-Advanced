@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031_SumOfDigits", "031_SumO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "032_IsMagicNumber", "032_IsMagicNumber\032_IsMagicNumber.csproj", "{B183B066-0A85-4C99-98F9-B3E5E87BB4C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "033_Combinators_nCrModM", "033_Combinators_nCrModM\033_Combinators_nCrModM.csproj", "{F3215FC5-98E8-42AC-A5D6-42D60F02B64C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{B183B066-0A85-4C99-98F9-B3E5E87BB4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B183B066-0A85-4C99-98F9-B3E5E87BB4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B183B066-0A85-4C99-98F9-B3E5E87BB4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3215FC5-98E8-42AC-A5D6-42D60F02B64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3215FC5-98E8-42AC-A5D6-42D60F02B64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3215FC5-98E8-42AC-A5D6-42D60F02B64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3215FC5-98E8-42AC-A5D6-42D60F02B64C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
