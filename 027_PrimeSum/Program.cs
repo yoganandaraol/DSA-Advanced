@@ -21,6 +21,9 @@ namespace _027_PrimeSum
 
             output = new List<int> { 31, 16777183 };
             Console.WriteLine(Enumerable.SequenceEqual(GetPrimeSumOfAV1(16777214), output) ? "Passed" : "Failed");
+
+            output = new List<int> { 3, 7 };
+            Console.WriteLine(Enumerable.SequenceEqual(GetPrimeSumOfAV1(10), output) ? "Passed" : "Failed");
         }
 
         public static List<int> GetPrimeSumOfA(int A)
@@ -59,6 +62,7 @@ namespace _027_PrimeSum
             return res;
         }
 
+        // TODO: FIX REQUIRED
         public static List<int> GetPrimeSumOfAV1(int A)
         {
             var res = new List<int>();
